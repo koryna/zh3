@@ -100,17 +100,17 @@ table {
 	h1 {
 	    font-size: 150%;
 	    font-weight: normal;
-	    color: #d3d3d3;
+	    color: #999;
 	    letter-spacing: .01em;
 	    margin: 0 .05em 0 0;
 	    text-align: center;
 	}
 	h1 a:link {
-	    color: #d3d3d3;
+	    color: #999;
 	    text-decoration: none;
 	}
 	h1 a:visited {
-	    color: #d3d3d3;
+	    color: #999;
 	    text-decoration: none;
 	}
 	h1 a#tagline { color: #56a49f }

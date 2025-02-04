@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-	<title><?php if ( is_single() ) { ?> <?php } ?><?php wp_title('∞',true,'right'); ?> <?php bloginfo('name'); ?></title>
+	<title><?php if ( is_single() ) { ?> <?php } ?><?php wp_title('🌱',true,'right'); ?> <?php bloginfo('name'); ?></title>
 
 	<meta http-equiv="content-type" 
 		content="text/html;charset=utf-8" />
@@ -21,5 +21,5 @@
 <body>
 	<div class="container">
 		<div class="top">
-			<h1><a href="/"><?php bloginfo('name'); ?></a> ∞ <a id="tagline" href="/"><?php bloginfo('description'); ?>	</a></h1>
+			<h1><a href="/"><?php bloginfo('name'); ?></a> 🌱 <a id="tagline" href="/"><?php bloginfo('description'); ?>	</a></h1>
 		</div> <!-- /end .top -->

@@ -3,10 +3,10 @@
 		</div> <!-- /end .subscribe -->
 
 		<div class="footer">
-				<p><a href="/YOURABOUTURL/">About</a> :: 
-				<a href="/archives/">Archives</a> :: 
-				<a href="/uncopyright/">Uncopyright</a> :: 
-				<a href="/OTHERLINK/">Another Footer Link</a>
+				<p><a href="/about/">About</a> |  
+				<a href="/archives/">Archives</a> | 
+				<!--<a href="/uncopyright/">Uncopyright</a> :: 
+				<a href="/OTHERLINK/">Another Footer Link</a>-->
 		</div><!-- /end .footer-->
 
 	</div>  <!-- /end .container -->

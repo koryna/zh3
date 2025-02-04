@@ -21,5 +21,5 @@
 <body>
 	<div class="container">
 		<div class="top">
-			<h1><a href="/"><?php bloginfo('name'); ?></a> | <a id="tagline" href="/more/"><?php bloginfo('description'); ?>	</a></h1>
+			<h1><a href="/"><?php bloginfo('name'); ?></a> | <a id="tagline" href="/"><?php bloginfo('description'); ?>	</a></h1>
 		</div> <!-- /end .top -->
